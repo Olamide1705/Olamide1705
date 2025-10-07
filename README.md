@@ -1,4 +1,6 @@
 ## Hi there 👋
+[![An image of @olamide1705's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/olamide1705)](https://holopin.io/@olamide1705)
+
 
 <!--
 **Olamide1705/Olamide1705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +17,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <a href="https://holopin.io/@olamide1705">
-    <img src="https://holopin.me/olamide1705" alt="@olamide1705's Holopin badges" />
-  </a>
-</p>
